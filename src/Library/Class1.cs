@@ -1,5 +1,5 @@
 ﻿namespace Library;
-public class Class1
+public class Administrador
 {
-
+  {  
 }
